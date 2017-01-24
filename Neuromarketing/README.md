@@ -1,1 +1,1 @@
-# Can we predict the best vidual for capting consumer attention ?
+# Can we predict the best visual for capting consumer attention ?
